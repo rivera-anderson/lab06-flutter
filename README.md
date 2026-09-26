@@ -11,15 +11,12 @@
 ## 📸 Pantallazos de la Aplicación
 
 <div align="center">
-  <!-- MUESTRA TUS PANTALLAZOS AQUÍ -->
   <img src="docs/home.png" alt="Vista Escritorio" width="600"/>
   <br/>
-  <i>Vista del Calendario con efecto de Tilt 3D y Neon.</i>
   <br/><br/>
   
   <img src="docs/image.png" alt="Vista Móvil" width="300"/>
   <br/>
-  <i>Estructura Responsiva en dispositivos móviles.</i>
 </div>
 
 ---

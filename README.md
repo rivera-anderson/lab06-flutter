@@ -4,13 +4,11 @@
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 ![UI/UX](https://img.shields.io/badge/UI%2FUX-Cyberpunk_Neon-ff007f?style=for-the-badge)
 
-¡Bienvenido al **Calendario GOSU**! Este es un proyecto de laboratorio desarrollado en Flutter enfocado en el diseño de interfaces (UI/UX). La aplicación presenta una interfaz ultra-premium, estilo Cyberpunk y Glassmorphism, con animaciones fluidas y soporte responsivo, construida enteramente utilizando `Row` y `Column`.
+¡Bienvenido al **Calendario**! Este es un proyecto de laboratorio desarrollado en Flutter enfocado en el diseño de interfaces (UI/UX). La aplicación presenta una interfaz ultra-premium, estilo Cyberpunk y Glassmorphism, con animaciones fluidas y soporte responsivo, construida enteramente utilizando `Row` y `Column`.
 
 ---
 
 ## 📸 Pantallazos de la Aplicación
-
-_(Reemplaza las imágenes de ejemplo subiendo tus propias capturas a la carpeta del repositorio y cambiando la ruta `screenshot.png`)_
 
 <div align="center">
   <!-- MUESTRA TUS PANTALLAZOS AQUÍ -->
@@ -63,5 +61,3 @@ flutter run -d chrome
 ```
 
 ---
-
-💡 _Desarrollado para la clase de Laboratorio de Flutter. Calificación apuntada: 20/20._
